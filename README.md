@@ -8,3 +8,4 @@ Partindo do principio, que você tenha o python instalado em sua máquina, vamos
 * Acesse o arquivo _entertainment_center.py_
 * Aperte a tecla 'F5'
 * E voalá... a pagina .html sera exibida contendo os filmes favoritos.
+ 

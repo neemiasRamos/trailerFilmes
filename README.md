@@ -25,9 +25,11 @@ Arquivo disponibilizado, pelo professor, para o uso no projeto.
 
 ```
 ## Executar
+Python 3.5
+
 Partindo do principio, que você tenha o python instalado em sua máquina, vamos lá:
 * Clone o repositório
 * Acesse o arquivo _entertainment_center.py_
-* Aperte a tecla 'F5'
+* Acesse o terminal e digite python entertainment_center.py
 * E voalá... a pagina .html sera exibida contendo os filmes favoritos.
  
